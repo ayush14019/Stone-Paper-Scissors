@@ -4,11 +4,11 @@ This is a simple implementation of the classic game "Stone, Paper, Scissors" usi
 
 ## How to Play
 
-1. Open the `index.html` file in your web browser.
-2. Click on the button representing your choice: Stone, Paper, or Scissors.
-3. The computer will randomly select its choice.
-4. The result of the game will be displayed on the screen.
-5. Enjoy playing!
+Open the `index.html` file in your web browser.
+Click on the button representing your choice: Stone, Paper, or Scissors.
+The computer will randomly select its choice.
+The result of the game will be displayed on the screen.
+Enjoy playing!
 
 ## Features
 
